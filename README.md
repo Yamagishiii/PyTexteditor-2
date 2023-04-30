@@ -1,4 +1,4 @@
-# PyTexteditor
+# PyTexteditorbeta2.8.3-01に新しいウィンドウが実行できない問題が発生中
 Copyright(c) yamat.72k
 
 実行環境:Windows
